@@ -4,7 +4,7 @@ The objective of this data analytics project was to investigate the extent of pu
 
 The project involved collecting and analyzing data from various sources, including government reports, housing agencies, and public records. The data was processed and analyzed using statistical techniques and visualized using charts and graphs to identify trends and patterns.
 
-The results of the analysis showed that there were hundreds of public housing apartments that were vacant in QLD, despite the high demand for housing from victims of family violence. The data also revealed that the number of vacant apartments had decreased due to the impact of COVID-19, which had caused a decline in the number of people moving into public housing hence a higher waiting period for the applicants.
+The results of the analysis showed that there were hundreds of public housing apartments that were vacant in QLD, despite the high demand for housing from victims of family violence. The data also revealed that the number of vacant apartments had decreased due to the impact of COVID-19, which had caused a decline in the number of people moving into public housing and results in a higher waiting period for the applicants.
 
 The project provided valuable insights into the public housing crisis in QLD, highlighting the need for more effective strategies to address the growing demand for permanent housing. The findings of the project can be used by policymakers and housing agencies to develop more targeted and efficient solutions to the public housing crisis, thereby improving the quality of life for vulnerable communities.
 <hr>
@@ -85,4 +85,4 @@ To explain the fall Covid-19 case number data was introduced.
 <br/>
 
 # Usage
-The datasets are stored in __"raw_data"__ directory. And the clean dataset after ETL is stored in __"Processed"__ Directory.
+The datasets are stored in __"raw_data"__ directory. And the clean dataset after ETL is stored in __"Processed"__ Directory. And all the additional documents are in __"slides"__ directory.
